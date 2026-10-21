@@ -101,5 +101,6 @@ An Android library for on-device security monitoring with seven detection featur
 ## Contact
 
 - [GitHub](https://github.com/abd476)
+- Email: [abdulrehmanab476@gmail.com](mailto:abdulrehmanab476@gmail.com)
 
 Feel free to explore my repositories, collaborate on an Android library, or connect about native Android development.
