@@ -74,5 +74,6 @@ Building reliable Android applications, improving software design and testing pr
 
 - GitHub: [abd476](https://github.com/abd476)
 - Email: [abdulrehmanab476@gmail.com](mailto:abdulrehmanab476@gmail.com)
+- Resume: [Download PDF/HTML](https://github.com/abd476/abd476/blob/main/resume.html) (print or save as PDF from your browser)
 
 Interested in Android engineering, open-source development, and building practical software.
