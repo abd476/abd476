@@ -4,7 +4,6 @@
 
 I build native Android applications and reusable libraries, focusing on maintainable architecture, authentication, and device security.
 
-Currently working as an Android Developer at Cordstone in Pakistan.
 
 ## Engineering Focus
 
