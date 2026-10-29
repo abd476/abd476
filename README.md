@@ -13,33 +13,7 @@ I build native Android applications and reusable libraries, focusing on maintain
 - API integration, asynchronous operations, and maintainable application code.
 - Exploring backend engineering and API design.
 
-## Selected Projects
-
-### [SecureAuthLib](https://github.com/abd476/authlibandroid)
-
-A reusable Android authentication library designed to provide a unified interface for supported biometric and credential-based authentication methods.
-
-- Unified authentication API and structured authentication results.
-- Coroutine-based asynchronous operations.
-- Secure token storage using AndroidX Security Crypto.
-- Authentication availability checks and fallback handling.
-
-**Tech:** Kotlin · Android SDK · Coroutines
-
-[Repository](https://github.com/abd476/authlibandroid) · [Demo app](https://github.com/abd476/authlibandroid/tree/master/app)
-
-### [SecurityGuard](https://github.com/abd476/SecurityFeatures)
-
-An Android security and anti-theft library for configurable device monitoring and event detection.
-
-- Charger, battery, and Wi-Fi monitoring.
-- Clap-based phone discovery.
-- Motion, proximity, and handsfree detection.
-- Configurable detection behavior and event callbacks.
-
-**Tech:** Kotlin · Android SDK · AndroidX
-
-[Repository](https://github.com/abd476/SecurityFeatures) · [Quick start](https://github.com/abd476/SecurityFeatures/blob/main/QUICKSTART.md)
+## Selected Project
 
 ### [Basarat1.0 — BASARAT: PSX Trade Recommendation & Assistance System](https://github.com/abd476/Basarat1.0)
 
@@ -76,7 +50,7 @@ Android client for BASARAT, an AI-powered trade recommendation and assistance sy
 ## Professional Experience
 
 **Android Developer — Cordstone**  
-November 2025 – Present
+November 2025 – Apr 2026
 
 **Android Development Intern — Cordstone**  
 September 2025 – November 2025
