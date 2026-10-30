@@ -13,27 +13,6 @@ I build native Android applications and reusable libraries, focusing on maintain
 - API integration, asynchronous operations, and maintainable application code.
 - Exploring backend engineering and API design.
 
-## Selected Project
-
-### [Basarat1.0 — BASARAT: PSX Trade Recommendation & Assistance System](https://github.com/abd476/Basarat1.0)
-
-Android client for BASARAT, an AI-powered trade recommendation and assistance system for the Pakistan Stock Exchange (PSX). The app is the presentation layer only — it consumes processed data and ML predictions via secure REST/WebSocket APIs; it does not perform backend development, model training, or database management on-device.
-
-- Technical indicators (RSI, MACD, Bollinger, SMA), price history charts, and fundamental ratios
-- ML price forecasts with target price, stop-loss, and confidence scoring
-- Shariah compliance screening (KMI-30), portfolio analytics, and AI stock recommendations
-- Clean Architecture + MVVM with ViewModel, StateFlow, and Jetpack Navigation Component
-- Retrofit + OkHttp + Gson for API consumption; MPAndroidChart for charting
-- WorkManager + Firebase Cloud Messaging for background jobs and push notifications
-
-**My role:** Android frontend development — UI screens, ViewModels, API consumption, navigation, and application architecture.
-
-**Tech:** Kotlin · Android SDK · XML layouts · Clean Architecture · MVVM · Coroutines · Retrofit · MPAndroidChart
-
-**Note:** Backend, ML models, and forecasting are handled by separate services — this repository contains the Android client only.
-
-[Repository](https://github.com/abd476/Basarat1.0)
-
 ## Technical Skills
 
 | Area | Technologies |
